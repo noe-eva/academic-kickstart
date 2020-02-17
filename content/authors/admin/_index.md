@@ -64,6 +64,7 @@ email: ""
 #- Visitors
 ---
 
-I'm a Swiss PhD student in the field of Natural Language Processing. Currently I'm based in Zurich, at the Institute of Computational Linguistics at the University of Zurich.
+I'm a PhD student at the [Institute of Computational Linguistics](www.cl.uzh.ch) working on my SNSF funded project _Natural Language Processing for Low-Resource Language Variations_ ([LORELAI](https://www.cl.uzh.ch/en/texttechnologies/research/Low-Resource-NLP/LORELAI.html)). 
 
-I've been passionate about Swiss German Natural Language Processing since 2012 when I started a project with a fellow student: NOAH's Corpus: Swiss German Part-of-Speech Tagging and have been involved in many Swiss German NLP projects since. Furthermore, I wrote my Master's Thesis in the field: "Parsing Approaches for Swiss German" (PDF). Since November 2019, my manually created parse trees are part of the Universal Dependency Treebanks version 2.5: UD_Swiss_German-UZH.
+I'm very much fascinated by the variations of languages and the challenges they pose for NLP.
+
